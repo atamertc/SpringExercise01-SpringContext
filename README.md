@@ -6,4 +6,5 @@
 * @Configuration, @Bean, @Primary, @Qualifier Annotations
 * Using beans in beans 
 
-![SpringFrameworkOdev.PNG](..%2F..%2FOdevler%2FSpringFrameworkOdev.PNG)
+
+![SpringFrameworkOdev](https://github.com/atamertc/SpringExercise01-SpringContext/assets/121511182/94fed8c8-9209-45bd-b200-927f95de8db3)
